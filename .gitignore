@@ -1,0 +1,19 @@
+# Railway Backend
+/backend
+
+# Vercel Frontend
+/frontend
+
+# Documentation
+*.md
+!README.md
+!DEPLOYMENT_GUIDE.md
+
+# Development
+.vscode/
+.idea/
+
+# Misc
+Tag_React_Agents_LangGraph_Warm_Up.md
+index.js
+
